@@ -7,11 +7,11 @@
 Nicrosoft Excel for data, cleaning, analysis and vizualization
 #Structured Query Language for querying data
 
-#GitsHub for Portfolio Building
+- GitsHub for Portfolio Building
 
-#PowerBI for data analysis ans vizualization
+-SQL PowerBI for data analysis ans vizualization
 
-#
+- PowerBu for data analysis and vizualization
 
 
 
