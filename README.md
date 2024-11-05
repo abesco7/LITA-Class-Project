@@ -3,9 +3,13 @@
 
 ### Project Overview
 
-### Tools Used
-Nicrosoft Excel for data, cleaning, analysis and vizualization
-#Structured Query Language for querying data
+### Tools Used-Nicrosoft 
+. xcel for
+1. 1.data, cleaning
+2. Data  analysis and
+3. izualization
+4. 
+- Stuctured Query Language for querying data
 
 - GitsHub for Portfolio Building
 
