@@ -4,12 +4,13 @@
 ### Project Overview
 
 ### Tools Used-Nicrosoft 
-. xcel for
-1 1.data, cleaning
 
-2 Data  analysis and
+. Microsoft Excel [Download Here](https://www.microsoft.com)
+1. 1.  for data, cleaning
 
-3 izualization
+2. for Data  analysis and
+
+3. for Visualization 
 4. 
 - Stuctured Query Language for querying data
 
