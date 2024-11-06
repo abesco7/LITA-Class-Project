@@ -25,6 +25,16 @@ The primary source of data used here is data sales, payment,HR data. These are o
 2.	Handling missing variables
 3.	Data cleaning and formating
 
+### Eploratory Data Analysis
+ Involves exploring the data to 
+This involves analysing the data to provide answers to question such as 
+1.	Overall sales trend
+2.	Cost minimization
+3.	Waste Preventiom
+4.	Profit Maximization
+
+
+
 
 
 
