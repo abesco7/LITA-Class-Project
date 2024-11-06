@@ -1,7 +1,10 @@
-# LITA-Class-Project
+### LITA-Class-Project
 #### Project Ovweciew
 
 ### Project Overview
+
+### Data  Sources
+The primary source of data used here is data sales, payment,HR data. These are open online source used for learning
 
 ### Tools Used-Nicrosoft 
 
@@ -11,14 +14,16 @@
 2. for Data  analysis and
 
 3. for Visualization 
-4. 
-- Stuctured Query Language for querying data
+   
+- SQL - Stuctured Query Language for querying data
 
 - GitsHub for Portfolio Building
 
--SQL PowerBI for data analysis ans vizualization
+- PowerBI for data analysis ans vizualization
 
-- PowerBu for data analysis and vizualization
+
+
+- ### Data Claning and Preparation
 
 
 
