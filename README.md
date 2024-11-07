@@ -33,6 +33,14 @@ This involves analysing the data to provide answers to question such as
 3.	Waste Preventiom
 4.	Profit Maximization
 
+5.	### Data Analysys
+6.
+  Tis where we include some basic lines of codes, queries and DAX Expressions used 
+```SQL
+   select* fom table 1
+where conditin = true
+```
+
 
 
 
