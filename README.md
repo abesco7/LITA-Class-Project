@@ -8,12 +8,30 @@
 ```
 ```
 
-### Project Overview
+### PrOject Overview
+
+
+[PrOject Overview](#project-review)
+
+[Data  Sources](#dat-sources)
+
+[Tools Used](#tools-used)
+
+- [Data Claning and Preparation](#data-cleaning-and-preparation)
+
+ [Eploratory Data Analysis](#exploratory-data-analysis)
+[Data Analysis](#data-analysis)
+
+- 
+
+- 
+
+
 
 ### Data  Sources
 The primary source of data used here is data sales, payment,HR data. These are open online source used for learning
 
-### Tools Used-Nicrosoft 
+### Tools Used 
 
 . Microsoft Excel [Download Here](https://www.microsoft.com)
 1. 1. for data, cleaning
@@ -40,7 +58,7 @@ This involves analysing the data to provide answers to question such as
 3.	Waste Preventiom
 4.	Profit Maximization
 
-5.	### Data Analysys
+5.	### Data Analysis
     Tis where we include some basic lines of codes, queries and DAX Expressions used 
 ```SQL
    select* fom table 1
