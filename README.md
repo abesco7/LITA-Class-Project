@@ -2,6 +2,7 @@
 
 
 #### Project Ovweciew
+This data Analysis project aims to generate insight into the performance of an organization over the past years. By analysing the various parameters in the data received, we seek to gather enough insights to make reasonable decisions to tell compellpng stories on performance.
 
 ```
 
