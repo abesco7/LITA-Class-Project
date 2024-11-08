@@ -54,8 +54,7 @@ This involves analysing the data to provide answers to question such as
 4.	Profit Maximization
 
 5.	### Data Analysis
-    Tis where we include some basic lines of codes, queries and DAX Expressions used 
-```SQL
+    Tis where we include some basic lines of codes, queries and DAX Expressions used ````SQL
    select* fom table 1
 where conditin = true
 ```
