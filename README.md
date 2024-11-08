@@ -23,13 +23,7 @@ This data Analysis project aims to generate insight into the performance of an o
  [Eploratory Data Analysis](#exploratory-data-analysis)
 [Data Analysis](#data-analysis)
 
-- 
-
-- 
-
-
-
-### Data  Sources
+- ### Data  Sources
 The primary source of data used here is data sales, payment,HR data. These are open online source used for learning
 
 ### Tools Used 
@@ -45,7 +39,7 @@ The primary source of data used here is data sales, payment,HR data. These are o
 
 - PowerBI for data analysis and vizualization
 
-- ### Data Claning and Preparation
+- ##### Data Claning and Preparation
 - In the initial stage of data cleaning and preparation, we performed the following actions:
 1.	Data loading and Inspection
 2.	Handling missing variables
